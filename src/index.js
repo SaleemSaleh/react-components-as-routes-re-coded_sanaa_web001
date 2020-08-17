@@ -12,7 +12,7 @@ const Home = () => {
     </div>
   );
 };
- 
+
 const About = () => {
   return (
     <div>
@@ -20,7 +20,7 @@ const About = () => {
     </div>
   );
 };
- 
+
 const Login = () => {
   return (
     <div>
